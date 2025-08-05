@@ -20,6 +20,8 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 
 
 ## Getting Started
+ShadowCommand C2 is currently available for Windows machines only, and typically takes just two minutes to set up and start running.
+
 >  **Quick Start**  
 Please refer to the [ShadowCommand Wiki](https://github.com/toneemarqus/Shadow-Command-C2-Framework/wiki)
 
