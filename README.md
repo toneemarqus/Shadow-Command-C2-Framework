@@ -18,7 +18,7 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 
 **By using this software, you agree to use it responsibly and legally.**
 
-## 🚀 Features
+##  Features
 
 ### Core C2 Capabilities
 - **Multi-platform support** - Windows and Linux clients with intelligent shell detection
@@ -44,7 +44,7 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 - **Session management** - Connect/disconnect from multiple beacons
 - **Command history** - Full command and response logging
 
-## 📋 Requirements
+##  Requirements
 
 ### Server Requirements
 - Windows 10/11 or Windows Server 2016+
@@ -54,12 +54,12 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 - **Windows**: Windows 7+ 
 - **Linux**: Linux distribution with networking capabilities
 
-## 🛠️ Installation
+##  Installation
 
 ### Quick Start
 Please refer to the wiki
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the security community:
 
@@ -76,7 +76,7 @@ We welcome contributions from the security community:
 - Test thoroughly before submitting
 - Document new features and APIs
 
-## 📚 Documentation
+##  Documentation
 
 - [Installation Guide](docs/installation.md)
 - [Configuration Reference](docs/configuration.md)
@@ -84,12 +84,6 @@ We welcome contributions from the security community:
 - [API Documentation](docs/api.md)
 - [Troubleshooting](docs/troubleshooting.md)
 
-## 🐛 Known Issues
-
-- Screenshot capture may fail on SYSTEM accounts (no desktop session)
-- Linux persistence requires root privileges for some methods
-- Discord rate limiting may affect command responsiveness
-- Large file transfers may timeout on slow connections
 
 ## 📝 Changelog
 
@@ -106,45 +100,3 @@ We welcome contributions from the security community:
 - Implemented privilege escalation techniques
 - Enhanced persistence mechanisms
 - Improved TLS certificate management
-
-See [CHANGELOG.md](CHANGELOG.md) for complete version history.
-
-## 📖 Educational Resources
-
-### Learning Materials
-- [C2 Development Fundamentals](docs/learning/c2-fundamentals.md)
-- [Evasion Techniques Explained](docs/learning/evasion-techniques.md)
-- [Network Protocol Design](docs/learning/network-protocols.md)
-- [PowerShell Integration Guide](docs/learning/powershell-integration.md)
-
-### Research Papers
-- Modern C2 Communication Channels
-- Evasion Techniques in Contemporary Malware
-- Detection Strategies for Advanced Persistent Threats
-
-## ⚖️ License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Third-Party Components
-- Uses Discord.NET for Discord API integration
-- Telegram.Bot for Telegram notifications
-- Various PowerShell modules for post-exploitation
-- .NET Framework/Core runtime
-
-## 🙏 Acknowledgments
-
-- The red team community for inspiration and feedback
-- Security researchers who responsibly disclose vulnerabilities
-- Open source projects that made this framework possible
-- Beta testers who helped improve stability and usability
-
-## 📞 Contact
-
-- **Issues**: Use GitHub Issues for bug reports and feature requests
-- **Security**: For security-related concerns, use responsible disclosure
-- **General**: Create discussions for questions and community interaction
-
----
-
-**Remember: This tool is designed to improve cybersecurity through authorized testing and education. Use responsibly and legally.**
