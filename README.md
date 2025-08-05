@@ -18,8 +18,10 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 
 **By using this software, you agree to use it responsibly and legally.**
 
-## Getting Started
 
+## Getting Started
+>  **Quick Start**  
+Please refer to the [ShadowCommand Wiki](https://github.com/toneemarqus/Shadow-Command-C2-Framework/wiki)
 
 
 ## Features
