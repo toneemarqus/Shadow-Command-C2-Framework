@@ -94,6 +94,12 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 
 • Automated Cleanup Mechanisms for Persistence
 
+
+## Discord Bot Integration
+Screenshot command example
+
+![Animation5](https://github.com/user-attachments/assets/239aa208-efbc-4399-afa3-5ac8f7e0357b)
+
 ##  Requirements
 
 ### Server Requirements
