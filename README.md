@@ -18,31 +18,81 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 
 **By using this software, you agree to use it responsibly and legally.**
 
-##  Features
+## Getting Started
 
-### Core C2 Capabilities
-- **Multi-platform support** - Windows and Linux clients with intelligent shell detection
-- **TLS encryption** - Secure communications with automatic certificate generation
-- **Real-time operations** - Live command execution with progress indicators
-- **File operations** - Upload/download with progress tracking and integrity checks
-- **Screenshot capture** - Desktop screenshots on Windows clients
-- **Advanced persistence** - Multiple persistence mechanisms across platforms
 
-### Advanced Features
-- **Multiplayer operators** - Multiple simultaneous operators with role-based access
-- **Discord integration** - Complete C2 operations through Discord channels
-- **Telegram notifications** - Real-time beacon alerts and status updates
-- **PowerShell integration** - Automatic module loading (PowerView, PowerUp, etc.)
-- **Privilege escalation** - Built-in techniques for gaining SYSTEM privileges
-- **Anti-analysis evasion** - Sandbox detection, anti-debug, and memory protection
-- **Lateral movement** - SCShell pivoting for Windows environments
 
-### Operator Experience
-- **Rich GUI interface** - Intuitive Windows Forms application
-- **Enhanced file explorer** - Browse target filesystems with context menus
-- **Activity monitoring** - Real-time logging with color-coded messages
-- **Session management** - Connect/disconnect from multiple beacons
-- **Command history** - Full command and response logging
+## Features
+
+• Server/Client Architecture for Multiplayer Support
+
+• Cross-platform Agent Support (Windows/Linux)
+
+• Cross-platform C2 Server (Windows/Linux server support)
+
+• Multi-operator Concurrent Sessions with Real-time Collaboration
+
+• Role-based Operator Access Control (Operator/Observer modes)
+
+• Fully Encrypted TLS Communications with Fallback to Plain Text
+
+• Self-signed Certificate Generation and TLS Certificate Management
+
+• Built-in Certificate Authority for TLS Operations
+
+• Connection Rate Limiting and Security Controls
+
+• Anti-detection Features with Randomised Service Names
+
+• Session Management with Connection Policy Controls
+
+• Beacon Lifecycle Management (Kill Date/Working Time Control)
+
+• Automated Client Health Monitoring and Status Tracking
+
+• Command History and Response Caching
+
+• Session Policy Management (Reject New/Disconnect Old)
+
+• Advanced PowerShell Integration with Persistent Sessions
+
+• Module Loading and Management System
+
+• Large Output Handling with Temporary File Storage
+
+• Cross-platform Command Translation (Linux/Windows)
+
+• Command Broadcasting to Multiple Operators
+
+• Real-time Activity Monitoring and Logging
+
+• File Upload/Download Operations with Progress Tracking
+
+• Agent Binary Management and Deployment
+
+• Screenshot Capture Capabilities (Windows)
+
+• Privilege Escalation Framework 
+
+• Persistence Mechanism Framework (Registry/Service/Startup/Systemd/Cron)
+
+• Lateral Movement Support (SCShell Service Pivoting)
+
+• Discord Bot Integration for Remote Operations
+
+• Telegram Notifications and Alert System
+
+• Domain User Detection and Privilege Level Identification
+
+• Operator Authentication and User Management
+
+• Client Information Gathering and System Profiling
+
+• Service Modification for Lateral Movement
+
+• Registry-based and File-based Persistence Methods
+
+• Automated Cleanup Mechanisms for Persistence
 
 ##  Requirements
 
@@ -54,10 +104,6 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 - **Windows**: Windows 7+ 
 - **Linux**: Linux distribution with networking capabilities
 
-##  Installation
-
-### Quick Start
-Please refer to the wiki
 
 ##  Contributing
 
@@ -69,20 +115,6 @@ We welcome contributions from the security community:
 4. Push to the branch (`git push origin feature/new-capability`)
 5. Create a Pull Request
 
-### Development Guidelines
-- Follow existing code style and conventions
-- Add comprehensive error handling
-- Include appropriate security disclaimers
-- Test thoroughly before submitting
-- Document new features and APIs
-
-##  Documentation
-
-- [Installation Guide](docs/installation.md)
-- [Configuration Reference](docs/configuration.md)
-- [Command Reference](docs/commands.md)
-- [API Documentation](docs/api.md)
-- [Troubleshooting](docs/troubleshooting.md)
 
 
 ## 📝 Changelog
