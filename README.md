@@ -24,11 +24,7 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 
 ## Features
 
-• Server/Client Architecture for Multiplayer Support
-
 • Cross-platform Agent Support (Windows/Linux)
-
-• Cross-platform C2 Server (Windows/Linux server support)
 
 • Multi-operator Concurrent Sessions with Real-time Collaboration
 
@@ -38,21 +34,9 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 
 • Self-signed Certificate Generation and TLS Certificate Management
 
-• Built-in Certificate Authority for TLS Operations
-
-• Connection Rate Limiting and Security Controls
-
 • Anti-detection Features with Randomised Service Names
 
-• Session Management with Connection Policy Controls
-
-• Beacon Lifecycle Management (Kill Date/Working Time Control)
-
 • Automated Client Health Monitoring and Status Tracking
-
-• Command History and Response Caching
-
-• Session Policy Management (Reject New/Disconnect Old)
 
 • Advanced PowerShell Integration with Persistent Sessions
 
@@ -61,10 +45,6 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 • Large Output Handling with Temporary File Storage
 
 • Cross-platform Command Translation (Linux/Windows)
-
-• Command Broadcasting to Multiple Operators
-
-• Real-time Activity Monitoring and Logging
 
 • File Upload/Download Operations with Progress Tracking
 
@@ -87,10 +67,6 @@ A sophisticated Command and Control (C2) framework designed for educational and 
 • Operator Authentication and User Management
 
 • Client Information Gathering and System Profiling
-
-• Service Modification for Lateral Movement
-
-• Registry-based and File-based Persistence Methods
 
 • Automated Cleanup Mechanisms for Persistence
 
