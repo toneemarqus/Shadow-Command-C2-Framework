@@ -111,30 +111,13 @@ Screenshot command example
 - **Linux**: Linux distribution with networking capabilities
 
 
-##  Contributing
-
-We welcome contributions from the security community:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-capability`)
-3. Commit your changes (`git commit -am 'Add new capability'`)
-4. Push to the branch (`git push origin feature/new-capability`)
-5. Create a Pull Request
-
-
 
 ## 📝 Changelog
 
-### v1.6.0 (Latest)
+### v1.6.0 (Latest)(Release Version)
 - Added Discord C2 integration
 - Implemented multiplayer operator support
 - Enhanced PowerShell module auto-loading
 - Improved anti-analysis evasion
 - Added Linux client support
 - Enhanced file explorer interface
-
-### v1.5.0
-- Added Telegram notifications
-- Implemented privilege escalation techniques
-- Enhanced persistence mechanisms
-- Improved TLS certificate management
