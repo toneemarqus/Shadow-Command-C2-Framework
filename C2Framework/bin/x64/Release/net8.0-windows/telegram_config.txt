@@ -1,0 +1,12 @@
+# Telegram Bot Configuration
+# Set enabled=true once you've entered your token and chat ID
+enabled=false
+
+# Enter your bot token from @BotFather
+token=<Bot token>
+
+# Enter your chat ID (you can get this from @userinfobot)
+chatid=<chat ID>
+
+# File format: key=value, one setting per line
+# Restart the C2 server after editing this file

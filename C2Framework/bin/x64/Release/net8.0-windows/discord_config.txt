@@ -1,0 +1,11 @@
+# Discord Bot Configuration
+# Set enabled=true once you've configured your bot
+enabled=true
+
+# Bot token from Discord Developer Portal
+token=<token>
+
+# Guild (Server) ID for slash commands
+guildid=<server ID>
+# Channel ID where notifications will be sent
+channelid=<channel ID>
